@@ -100,12 +100,13 @@
   	{
 		"name": "Infantry",
 		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 70,
-		"cost": 375,
+		"movement": 3,
+		"strength": 90,
+		"cost": 300,
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Mobile Tactics",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"uniques": ["[+200]% Strength <vs [Armored] units> <when defending>", "[+100]% Strength <vs [Armored] units> <when attacking>" ]
 	},
   	{
 		"name": "Great War Bomber",
@@ -138,12 +139,13 @@
   	{
 		"name": "Great War Infantry",
 		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 50,
+		"movement": 3,
+		"strength": 30,
 		"cost": 100,
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Plastics",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"uniques": ["[+200]% Strength <vs [Armored] units> <when defending>", ["[+100]% Strength <vs [Armored] units> <when attacking>" ]
 	},
   	{
 		"name": "Artillery",
@@ -154,7 +156,7 @@
 		"range": 3,
 		"cost": 320,
 		"requiredTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+		"uniques": ["No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"

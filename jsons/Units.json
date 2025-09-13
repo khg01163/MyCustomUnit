@@ -171,8 +171,8 @@
 			"Must set up to ranged attack","[-2] Sight", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
-	}
-]	{
+	},
+{
 		"name": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
 		"range": 3,

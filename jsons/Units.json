@@ -164,7 +164,7 @@
 		"movement": 2,
 		"strength": 65,
 		"rangedStrength": 85,
-		"range": 3,
+		"range": 6,
 		"cost": 320,
 		"requiredTech": "Dynamite",
 		"uniques": ["No defensive terrain bonus",

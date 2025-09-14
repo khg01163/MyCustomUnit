@@ -97,12 +97,12 @@
 		"unitType": "Ranged Water",
 		"movement": 5,
 		"strength": 55,
-		"rangedStrength": 55,
-		"range": 3,
-		"cost": 375,
-		"requiredResource": "Oil",
+		"rangedStrength": 100,
+		"range": 5,
+		"cost": 1000,
+		"requiredResource": "Aluminum",
 		"requiredTech": "Electronics",
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": ["[-70]% Strength <vs [Helicopter] units> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 		// Does not actually upgrade to Missile Cruisers

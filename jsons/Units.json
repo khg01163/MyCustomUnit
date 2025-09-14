@@ -127,7 +127,7 @@
 		"range": 2,
 		"cost": 230,
 		"requiredTech": "Dynamite",
-		"requiredResource": "Oil",
+		"requiredResource": "Coal",
 		"obsoleteTech": "Radar",
 		"attackSound": "bombing",
 		"uniques": ["[+500]% Strength <when defending>","[+200]% Strength <vs [Armored] units> <when attacking>"]
@@ -142,7 +142,7 @@
 		"interceptRange": 3,
 		"cost": 230,
 		"requiredTech": "Dynamite",
-		"requiredResource": "Oil",
+		"requiredResource": "Coal",
 		"obsoleteTech": "Radar",
 		"uniques": ["[+2] Sight", "[+500]% Strength <when defending>","[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"

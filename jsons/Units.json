@@ -33,7 +33,7 @@
 		"range": 2,
 		"cost": 700,
 		"requiredTech": "Dynamite",
-		"requiredResource": "Oil, Iron",
+		"requiredResource": "Oil",
 		"attackSound": "bombing",
 		"uniques": ["[+200]% Strength <when defending>","[+200]% Strength <vs [Armored] units> <when attacking>"]
 	},
@@ -60,7 +60,7 @@
 		"rangedStrength": 75,
 		"cost": 400,
 		"requiredTech": "Dynamite",
-		"requiredResource": "Coal",
+		"requiredResource": "Iron",
 		"obsoleteTech": "Combined Arms",
 		"uniques": ["[-2] Sight", "[+500]% Strength <vs [Gunpowder] units> <when defending>","[+500]% Strength <vs [Ranged Gunpowder] units> <when defending>", "Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
